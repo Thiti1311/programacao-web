@@ -1,0 +1,6 @@
+.container{
+  max-width: 375px; /* Largura típica de um smartphone em modo retrato */
+  margin: 0 auto;
+  text-align: center;
+  padding: 20px;
+}
